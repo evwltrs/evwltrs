@@ -1,16 +1,31 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=evwltrs&style=flat-square)
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://1nf..me/">1nf</a></b>
+        </samp>
+</h3>
+<br>
 
-<!--
-**evwltrs/evwltrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From London, UK 」
+                <br>
+          「 <a href="https://1nf.me">1nf.me</a> 」
+                <br>
+                <br>
+        </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Activity</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Evan W's github stats"
+                src="https://github-readme-stats.vercel.app/api?username=evwltrs&show_icons=true&theme=radical&count_private=true" />
+        <br>
+    </p>
+</details>
+<br>
