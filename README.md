@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=evwltrs&style=flat-square)
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://1nf..me/">1nf</a></b>
+                <b><a target="_blank" href="https://1nf.me/">1nf</a></b>
         </samp>
 </h3>
 <br>
