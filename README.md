@@ -9,7 +9,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From London, UK 」
+                「 From Earth 」
                 <br>
           「 <a href="https://1nf.me">1nf.me</a> 」
                 <br>
