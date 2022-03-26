@@ -1,16 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=evwltrs&style=flat-square)
-<h3 align="center">
-        <samp>
-                <b><a target="_blank" href="https://1nf.me/">1nf</a></b>
-        </samp>
-</h3>
-<br>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Earth 」
-                <br>
           「 <a href="https://1nf.me">1nf.me</a> 」
                 <br>
                 <br>
