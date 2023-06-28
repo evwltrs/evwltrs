@@ -15,7 +15,7 @@
 <a href="https://1nf.me"><img align="left" width="500" src="https://raw.githubusercontent.com/evwltrs/evwltrs/main/img.jpg"></a>
 
 <div>
-<img src="https://skillicons.dev/icons?i=rust,typescript,javascript,svelte,tailwind,cloudflare,bash,linux,nodejs,md,git,vim&perline=6" style="padding-top: 15px;"/>
+<img src="https://skillicons.dev/icons?i=rust,typescript,javascript,svelte,tailwind,cloudflare,bash,linux,nodejs,md,git,vim&perline=4" style="padding-top: 15px;"/>
 <h2><samp>contact me</samp></h2>
 <samp>I would love to hear from you! feel free to contact me about anything and I will be happy to respond.</samp>
 </br>
