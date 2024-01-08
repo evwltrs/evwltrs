@@ -22,6 +22,5 @@
 <samp>
 - email me: <a href="http://1nf.me/email/ZXZAMW5mLm1l">ev(at)1nf(dot)me</a></br>
 - message me on discord: <a href="https://discord.com/users/373880321722023958">1nf</a></br>
-- find another strange platform to contact me on (my opsec is bad lul)
 </samp>
 </div>
